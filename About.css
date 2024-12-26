@@ -1,0 +1,25 @@
+.Container{
+    background-color: black;
+    color: white;
+    
+    
+
+}
+
+
+
+body{
+    background-color:aqua;
+
+}
+
+img{
+    border-radius: 40px;
+    margin-right: 20px;
+
+}
+@media(max-width:480){
+    .Container h1{
+        display: none;
+    }
+}
